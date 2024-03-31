@@ -1,0 +1,16 @@
+{
+  "name": "everyday",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest __tests__"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
